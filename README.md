@@ -62,9 +62,10 @@ I'm a passionate technology and innovation enthusiast, currently pursuing a Bach
 
 ---
 
-*"Turning ideas into interactive experiences, one line of code at a time."*  <!--## Hi there 👋 Braian Arguello | Estudiante de Licenciatura en Tecnologías Digitales
-<img src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyd3dyOWR2ZWZwMmtuYWIydjYyNWNvc2R6bGg5ejhmbzJwZWdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif' alt = 'Code C#' align='right'/>
+*"Turning ideas into interactive experiences, one line of code at a time."*  
 
+<img src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyd3dyOWR2ZWZwMmtuYWIydjYyNWNvc2R6bGg5ejhmbzJwZWdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif' alt = 'Code C#' align='center'/>
+<!--## Hi there 👋 Braian Arguello | Estudiante de Licenciatura en Tecnologías Digitales
 <!--### 👋 Sobre Mí
 Soy un apasionado de la tecnología y la innovación, actualmente cursando la Licenciatura en Tecnologías Digitales con un título intermedio de Técnico Superior en Desarrollo de Software de Simuladores. Mi enfoque está en el desarrollo de software y la creación de experiencias interactivas a través de simulaciones. Busco oportunidades para crecer profesionalmente en el sector IT, colaborar en proyectos desafiantes y seguir aprendiendo.
 
