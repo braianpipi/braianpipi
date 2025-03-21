@@ -9,7 +9,7 @@ I'm a passionate technology and innovation enthusiast, currently pursuing a Bach
 
 - 🌍 Based in Buenos Aires, Argentina.  
 - 💼 Open to remote, hybrid, or on-site work opportunities.  
-- 📫 Reach me at: **braian.arguello@gotmail.com**  
+- 📫 Reach me at: **braian.arguello@hotmail.com**  
 
 ---
 
