@@ -1,20 +1,21 @@
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Braian Arguello
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Braian Arguello 
 #### Software Development Student | Simulation Enthusiast | UX/UI Designer  
 
-
 ---
 
-### 👉 About Me  <img src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" align= right width ="500" />
+## 👋 About Me  
+<img src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" align="right" width="400" />  
+
 I'm a passionate technology and innovation enthusiast, currently pursuing a Bachelor's Degree in Digital Technologies with an intermediate degree in Software Development for Simulators. My focus is on software development and creating interactive experiences through simulations. I'm eager to grow professionally in the IT sector, collaborate on challenging projects, and continue learning.  
 
-- 🌍 Based in Buenos Aires, Argentina.  
-- 💼 Open to remote, hybrid, or on-site work opportunities.  
-- 📫 Reach me at: **braian.arguello@hotmail.com**  
+- 🌍 **Based in:** Buenos Aires, Argentina.  
+- 💼 **Looking for:** Remote, hybrid, or on-site work opportunities.  
+- 📫 **Contact me:** **braian.arguello@hotmail.com**  
 
 ---
 
-### 🛠️ Technical Skills  
+## 🛠️ Technical Skills  
 - **Programming Languages:** C#, C, Java, Python, JavaScript.  
 - **Frameworks & Tools:** React, Node.js, Unity.  
 - **UX/UI Design:** Figma, Photoshop.  
@@ -23,9 +24,9 @@ I'm a passionate technology and innovation enthusiast, currently pursuing a Bach
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🚴 Bicycle Assembly Simulator  
+### 🚴 Bicycle Assembly Simulator  
 - **Description:** An interactive simulator developed in Unity for a bicycle workshop. Users can collect and assemble bicycle parts into a 3D model.  
 - **Role:** Programming and user interface design.  
 - **Technologies:** Unity, C#, Figma.  
@@ -33,22 +34,23 @@ I'm a passionate technology and innovation enthusiast, currently pursuing a Bach
 
 ---
 
-### 📂 Portfolio  
+## 📂 Portfolio  
 *Coming soon!* I'm currently working on a web portfolio to showcase my projects and skills. Stay tuned!  
 
 ---
 
-### 📫 Let's Connect  
+## 📫 Let's Connect  
 - **LinkedIn:** [Braian Arguello](https://www.linkedin.com/in/braian-arguello)  
 - **Email:** braian.arguello@gotmail.com  
 
 ---
 
-### 🎨 GitHub Profile Style   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+## 🎨 GitHub Profile Style  
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />  
+
 - **Colors:** Modern tech-inspired palette (blues, grays, and neon accents).  
 - **Badges:**  
-
+  
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,16 +59,17 @@ I'm a passionate technology and innovation enthusiast, currently pursuing a Bach
 
 ---
 
-### 🌟 Goals  
+## 🌟 Goals  
 - Collaborate on innovative projects, especially in simulation development.  
 - Gain professional experience in the IT sector.  
 - Continue learning and improving my skills in software development and UX/UI design.  
 
 ---
 
-*"Turning ideas into interactive experiences, one line of code at a time."*  
+> *"Turning ideas into interactive experiences, one line of code at a time."*  
 
-<img src = 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyd3dyOWR2ZWZwMmtuYWIydjYyNWNvc2R6bGg5ejhmbzJwZWdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif' alt = 'Code C#' align='center'/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyd3dyOWR2ZWZwMmtuYWIydjYyNWNvc2R6bGg5ejhmbzJwZWdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code C#" align="center"/>
+
 <!--## Hi there 👋 Braian Arguello | Estudiante de Licenciatura en Tecnologías Digitales
 <!--### 👋 Sobre Mí
 Soy un apasionado de la tecnología y la innovación, actualmente cursando la Licenciatura en Tecnologías Digitales con un título intermedio de Técnico Superior en Desarrollo de Software de Simuladores. Mi enfoque está en el desarrollo de software y la creación de experiencias interactivas a través de simulaciones. Busco oportunidades para crecer profesionalmente en el sector IT, colaborar en proyectos desafiantes y seguir aprendiendo.
